@@ -1,3 +1,8 @@
+Screenshot of original BBC News page that was reproduced
+https://github.com/rodrigozuniga/BBCNews/issues/1
+
+
+
 # cof3545aa920443b3427e8a19
 
 Quick start:
