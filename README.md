@@ -6,6 +6,8 @@ Screenshot of original BBC News page that was reproduced
 
 ![My Image](./assets/BBCScreenshot.jpg)
 
+<img src="https://github.com/rodrigozuniga/BBCNews/blob/main/BBCScreenshot.jpg">
+
 # cof3545aa920443b3427e8a19
 
 Quick start:
