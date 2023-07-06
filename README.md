@@ -1,5 +1,5 @@
 Screenshot of original BBC News page that was reproduced
-https://github.com/rodrigozuniga/BBCNews/issues/1
+![Alt text](https://github.com/rodrigozuniga/BBCNews/issues/1)
 
 
 
