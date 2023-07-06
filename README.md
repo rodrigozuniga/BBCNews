@@ -4,7 +4,7 @@ Screenshot of original BBC News page that was reproduced
 
 ![Model](https://github.com/rodrigozuniga/BBCNews/issues/1)
 
-
+![My Image](./assets/BBCScreenshot.jpg)
 
 # cof3545aa920443b3427e8a19
 
