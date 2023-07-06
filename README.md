@@ -1,10 +1,4 @@
-Screenshot of original BBC News page that was reproduced
-<img src="https://github.com/rodrigozuniga/BBCNews/issues/1" alt="original screenshot" title="BBC News original screenshot">
-
-
-![Model](https://github.com/rodrigozuniga/BBCNews/issues/1)
-
-![My Image](./assets/BBCScreenshot.jpg)
+### Screenshot of original BBC News page that was reproduced:
 
 <img src="https://github.com/rodrigozuniga/BBCNews/blob/main/BBCScreenshot.jpg">
 
