@@ -1,5 +1,6 @@
 ### Screenshot of original BBC News page that was reproduced:
-<a href="https://rodrigozuniga.github.io/BBCNews/">Reproduction</a>
+click here for <a href="https://rodrigozuniga.github.io/BBCNews/">Reproduction</a>
+<br>
 <br>
 <img src="https://github.com/rodrigozuniga/BBCNews/blob/main/BBCScreenshot.jpg">
 
