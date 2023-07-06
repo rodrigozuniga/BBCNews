@@ -1,4 +1,7 @@
 Screenshot of original BBC News page that was reproduced
+<img src="https://github.com/rodrigozuniga/BBCNews/issues/1" alt="original screenshot" title="BBC News original screenshot">
+
+
 ![Model](https://github.com/rodrigozuniga/BBCNews/issues/1)
 
 
